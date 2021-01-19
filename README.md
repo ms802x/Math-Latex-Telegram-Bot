@@ -1,4 +1,4 @@
-# Latex Telegram Bot
+# Math Latex Telegram Bot
 **The bot convert text and math latex to pdf**
 
 ## Overview
