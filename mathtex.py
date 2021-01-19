@@ -15,7 +15,7 @@ from telegram.ext import (
 
 
 #The bot token
-TOKEN = "1577760866:AAGeV724uWY5YpL-UUV0ygZRWohZpGPXT7M"
+TOKEN = "Put Your Token Here"
 doc = Document('basic',font_size ="Large")
 doc.packages.add(Package("geometry",options=['a5paper',"centering"]))
 # Enable logging
